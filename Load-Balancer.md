@@ -5,7 +5,7 @@ Load balancing becomes necessary in various scenarios, primarily when you have m
 
 <image src="./images/1.png" width="800">
 
-In above scenario,it needs to deploy a separate Load Balancer VM in your environment to providing a single URL for users to access the application. This Load Balancer will be responsible for forwarding requests from users to any of the nodes hosting the application.
+In above scenario,you needs to deploy a separate Load Balancer VM in your environment to providing a single URL for users to access the application. This Load Balancer will be responsible for forwarding requests from users to any of the nodes hosting the application.
 
 
 ## Creating a Load-Balance Service in Kubernetes
